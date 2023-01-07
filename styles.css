@@ -162,6 +162,12 @@ a.social:hover {
   clear: both;
 }
 
+.comingsoon {
+    background: url('images/comingsoon.jpeg') no-repeat top center;
+    height: 100vh;
+    background-size: cover;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
